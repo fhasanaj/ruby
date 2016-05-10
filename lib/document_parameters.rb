@@ -60,6 +60,7 @@ class DocumentParameters
       content: @content,
       content_uri: @content_uri,
       file_path: @file_path,
+      genre: @genre,
       language: @language
     }
   end
